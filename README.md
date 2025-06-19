@@ -29,7 +29,9 @@
 
 ## 📱 Screenshots
 
-![Project Screenshot](https://raw.githubusercontent.com/shettyrohit0810/Android-Art-Explorer-App/main/Project4.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shettyrohit0810/Android-Art-Explorer-App/main/Project4.webp" width="500"/>
+</p>
 
 
 ---
