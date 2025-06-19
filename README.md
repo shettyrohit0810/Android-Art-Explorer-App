@@ -29,8 +29,8 @@
 
 ## 📱 Screenshots
 
-> *(Insert screenshots here: Home Screen, Artist Details, Artworks, Favorites)*  
-> You can also embed a demo video here using GitHub Markdown.
+![Project Screenshot](https://raw.githubusercontent.com/shettyrohit0810/Android-Art-Explorer-App/main/Project4.webp)
+
 
 ---
 
