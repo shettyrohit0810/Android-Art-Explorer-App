@@ -188,12 +188,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**Sahil Shetty**  
+**Rohit Shetty**  
 *Android Developer | Mobile App Enthusiast*
 
 - 🌐 **Portfolio**: [GitHub Profile](https://github.com/shettyrohit0810)
 - 📧 **Contact**: Available for opportunities
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/sahil-shetty)
+- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/rohit-shetty)
 
 ---
 
